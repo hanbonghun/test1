@@ -15,7 +15,7 @@ public class Main {
     }
     public static boolean compare(String a,String b){
         for (int i = 0; i < a.length(); i++) {
-            dddd
+            ddddddd
             if(a.charAt(i)-'0'> b.charAt(i)-'0'){
                 return true;
             }else if(a.charAt(i)-'0'<b.charAt(i)-'0') return false;
